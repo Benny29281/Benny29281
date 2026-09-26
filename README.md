@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=BENNY%20DWIYANTO&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff&color=0:FF0080,25:7928CA,50:0070F3,75:00DFD8,100:00FF9D" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=BENNY%20DWIYANTO&fontSize=52&fontAlignY=35&animation=twinkling&fontColor=00F5FF&color=0:0D0221,25:190A2E,50:2D0140,75:4B0082,100:0D0221" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=00F5D4,F72585,4CC9F0,FEE440&center=true&vCenter=true&multiline=true&width=900&height=100&lines=SOFTWARE+DEVELOPER+%F0%9F%92%BB;BACKEND+%7C+FRONTEND+%7C+MOBILE+%F0%9F%93%B1;MACHINE+LEARNING+ENTHUSIAST+%F0%9F%A4%96;BUILDING+SOFTWARE+THAT+SOLVES+REAL+PROBLEMS+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=700&color=00F5FF,BC13FE,FF00E4&center=true&vCenter=true&multiline=true&width=900&height=100&lines=%3E+SOFTWARE+DEVELOPER_;%3E+BACKEND+%7C+FRONTEND+%7C+MOBILE_;%3E+MACHINE+LEARNING+ENTHUSIAST_;%3E+BUILDING+SOFTWARE+THAT+SOLVES+REAL+PROBLEMS_" />
 
 <br>
 
@@ -11,13 +11,14 @@
 <br><br>
 
 <a href="https://github.com/Benny29281">
-<img src="https://komarev.com/ghpvc/?username=Benny29281&label=PROFILE%20VIEWS&color=gradient&style=for-the-badge" />
+<img src="https://img.shields.io/badge/PROFILE_VIEWS-000000?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0D0221" />
+<img src="https://komarev.com/ghpvc/?username=Benny29281&label=&color=BC13FE&style=for-the-badge" />
 </a>
 <a href="https://github.com/Benny29281?tab=followers">
-<img src="https://img.shields.io/github/followers/Benny29281?style=for-the-badge&logo=github&label=FOLLOWERS&color=blueviolet" />
+<img src="https://img.shields.io/github/followers/Benny29281?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=0D0221&color=FF00E4" />
 </a>
 <a href="https://github.com/Benny29281?tab=stars">
-<img src="https://img.shields.io/github/stars/Benny29281?style=for-the-badge&logo=github&label=STARS&color=yellow" />
+<img src="https://img.shields.io/github/stars/Benny29281?style=for-the-badge&logo=github&label=STARS&labelColor=0D0221&color=00F5FF" />
 </a>
 
 </div>
@@ -26,13 +27,38 @@
 
 <div align="center">
 
-## `> INITIALIZING BENNY_DWIYANTO...`
+## `> root@benny:~# ./boot_profile.sh`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1200&pause=500&color=00FF88&center=true&vCenter=true&width=650&lines=%5BOK%5D+Loading+developer+profile...;%5BOK%5D+Backend+module+initialized;%5BOK%5D+Frontend+module+initialized;%5BOK%5D+Machine+Learning+module+initialized;%5BOK%5D+Database+module+initialized;%5BOK%5D+All+systems+operational.;%3E+WELCOME+TO+MY+DIGITAL+SPACE." />
 
-<br>
+</div>
 
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/gifs/Bottom.gif" width="100%">
+---
+
+# 🖧 `SYSTEM.INFO`
+
+<div align="center">
+
+```text
+╔═══════════════════════════════════════════════════════════╗
+║  DOSSIER//BENNY_DWIYANTO                        [ACTIVE]  ║
+╠═══════════════════════════════════════════════════════════╣
+║  Subject     : Benny Dwiyanto                              ║
+║  Role        : Software Developer                          ║
+║  Origin      : Indonesia 🇮🇩                                ║
+║  Education   : Information Technology (Graduate)           ║
+║  Status      : ● ONLINE                                    ║
+╟───────────────────────────────────────────────────────────╢
+║  Core.Lang     : PHP · Python · Java · JavaScript · SQL    ║
+║  Core.Frontend : React · HTML · CSS · Bootstrap            ║
+║  Core.Backend  : Laravel · Flask · REST API                ║
+║  Core.Database : MySQL                                     ║
+║  Core.ML       : LightGBM · XGBoost · Scikit-Learn          ║
+╟───────────────────────────────────────────────────────────╢
+║  Grid.GitHub   : github.com/Benny29281                     ║
+║  Grid.LinkedIn : linkedin.com/in/Bennydwiyanto              ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -257,20 +283,20 @@ DATASET → EXPLORATION → PREPROCESSING → FEATURE SET → ADASYN
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Benny29281&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benny29281&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Benny29281&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benny29281&layout=compact&theme=synthwave&hide_border=true&langs_count=8" height="180"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Benny29281&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Benny29281&theme=nightowl&hide_border=true&background=0D0221&ring=BC13FE&fire=FF00E4&currStreakLabel=00F5FF" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Benny29281&theme=radical&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Benny29281&theme=algolia&no-frame=true&row=1&column=7" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Benny29281&theme=react-dark&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Benny29281&theme=react-dark&hide_border=true&bg_color=0D0221&color=00F5FF&line=BC13FE&point=FF00E4" width="100%" />
 
 </div>
 
@@ -329,6 +355,6 @@ DATASET → EXPLORATION → PREPROCESSING → FEATURE SET → ADASYN
 
 ### `💻 CODE • BUILD • LEARN • REPEAT`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=twinkling&color=0:00FF9D,25:00DFD8,50:0070F3,75:7928CA,100:FF0080" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=twinkling&color=0:0D0221,25:4B0082,50:2D0140,75:190A2E,100:0D0221" width="100%"/>
 
 </div>
