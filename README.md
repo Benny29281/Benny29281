@@ -251,30 +251,6 @@ DATASET → EXPLORATION → PREPROCESSING → FEATURE SET → ADASYN
 
 </div>
 
----
-
-# 📊 `GITHUB_ANALYTICS`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Benny29281&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benny29281&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Benny29281&theme=radical&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Benny29281&theme=radical&no-frame=true&row=1&column=7" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Benny29281&theme=react-dark&hide_border=true" width="100%" />
-
-</div>
-
----
 
 # 🐍 `CONTRIBUTION_ACTIVITY`
 
@@ -283,7 +259,6 @@ DATASET → EXPLORATION → PREPROCESSING → FEATURE SET → ADASYN
 <img src="https://raw.githubusercontent.com/Benny29281/Benny29281/output/github-contribution-grid-snake.svg" width="100%" />
 
 </div>
----
 
 # 🔭 `CURRENTLY_EXPLORING`
 
