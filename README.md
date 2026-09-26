@@ -283,9 +283,6 @@ DATASET → EXPLORATION → PREPROCESSING → FEATURE SET → ADASYN
 <img src="https://raw.githubusercontent.com/Benny29281/Benny29281/output/github-contribution-grid-snake.svg" width="100%" />
 
 </div>
-
-> 💡 **Catatan:** animasi snake di atas butuh workflow GitHub Actions (`platane/snk`) aktif di repo profile kamu agar file `github-contribution-grid-snake.svg` ter-generate otomatis. Kalau belum ada, bilang saja — saya bisa bantu buatkan file workflow-nya juga.
-
 ---
 
 # 🔭 `CURRENTLY_EXPLORING`
