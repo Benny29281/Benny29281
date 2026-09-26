@@ -1,6 +1,6 @@
 <div align="center">
 
-# Halo, saya [Nama Kamu] 👋
+# Halo, saya [Benny Dwiyanto] 👋
 
 ### [Peran atau bidang yang kamu tekuni]
 
