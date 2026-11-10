@@ -10,7 +10,7 @@
 
 <img src="https://skillicons.dev/icons?i=go,php,cs,python,java,ts,js,laravel,dotnet,angular,nextjs,react,flask&theme=dark" />
 <br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,redis,kafka,firebase,docker,tailwind,bootstrap,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,kafka,firebase,docker,tailwind,bootstrap,git,github&theme=dark" />
 
 <br><br>
 
@@ -120,7 +120,8 @@ Frontend → Backend → API → Database → ML → Deployment
 <img src="https://skillicons.dev/icons?i=laravel,dotnet,angular,nextjs,react,flask,tailwind,bootstrap,vite&theme=dark" />
 
 ### 🗄️ Data & Infrastructure
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,sqlite,redis,kafka,firebase,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,kafka,firebase,docker&theme=dark" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
 ### 🤖 Machine Learning
 <img src="https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge" />
@@ -159,16 +160,66 @@ Frontend → Backend → API → Database → ML → Deployment
 
 <br>
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<a href="https://github.com/Benny29281/Asthmascreen"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Benny29281&repo=Asthmascreen&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Benny29281/benzmart_go-golang-"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Benny29281&repo=benzmart_go-golang-&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Benny29281/project-tiket"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Benny29281&repo=project-tiket&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Benny29281/Project-Website-IPT-"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Benny29281&repo=Project-Website-IPT-&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Benny29281/Steizen-top-up"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Benny29281&repo=Steizen-top-up&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Benny29281/SorexBrandingLaravel"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Benny29281&repo=SorexBrandingLaravel&theme=tokyonight&hide_border=true" /></a>
+### 🫁 AsthmaScreen
+Skrining risiko asma, mobile + ML.
 
-</div>
+<a href="https://github.com/Benny29281/Asthmascreen"><img src="https://img.shields.io/github/languages/top/Benny29281/Asthmascreen?style=flat-square&color=7928CA" /></a>
+<a href="https://github.com/Benny29281/Asthmascreen"><img src="https://img.shields.io/github/last-commit/Benny29281/Asthmascreen?style=flat-square&color=0070F3" /></a>
+
+</td>
+<td width="33%" valign="top">
+
+### 🛒 BenzMart
+Backend flash sale dengan Go.
+
+<a href="https://github.com/Benny29281/benzmart_go-golang-"><img src="https://img.shields.io/github/languages/top/Benny29281/benzmart_go-golang-?style=flat-square&color=7928CA" /></a>
+<a href="https://github.com/Benny29281/benzmart_go-golang-"><img src="https://img.shields.io/github/last-commit/Benny29281/benzmart_go-golang-?style=flat-square&color=0070F3" /></a>
+
+</td>
+<td width="33%" valign="top">
+
+### 🎫 HelpDeskKu
+Ticketing IT: .NET + Angular.
+
+<a href="https://github.com/Benny29281/project-tiket"><img src="https://img.shields.io/github/languages/top/Benny29281/project-tiket?style=flat-square&color=7928CA" /></a>
+<a href="https://github.com/Benny29281/project-tiket"><img src="https://img.shields.io/github/last-commit/Benny29281/project-tiket?style=flat-square&color=0070F3" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🌏 IPT Website
+Company profile 4 bahasa.
+
+<a href="https://github.com/Benny29281/Project-Website-IPT-"><img src="https://img.shields.io/github/languages/top/Benny29281/Project-Website-IPT-?style=flat-square&color=7928CA" /></a>
+<a href="https://github.com/Benny29281/Project-Website-IPT-"><img src="https://img.shields.io/github/last-commit/Benny29281/Project-Website-IPT-?style=flat-square&color=0070F3" /></a>
+
+</td>
+<td width="33%" valign="top">
+
+### 🎮 Steizen Store
+Top-up game dengan Laravel 13.
+
+<a href="https://github.com/Benny29281/Steizen-top-up"><img src="https://img.shields.io/github/languages/top/Benny29281/Steizen-top-up?style=flat-square&color=7928CA" /></a>
+<a href="https://github.com/Benny29281/Steizen-top-up"><img src="https://img.shields.io/github/last-commit/Benny29281/Steizen-top-up?style=flat-square&color=0070F3" /></a>
+
+</td>
+<td width="33%" valign="top">
+
+### 🏷️ Sorex.id
+Manajemen request branding.
+
+<a href="https://github.com/Benny29281/SorexBrandingLaravel"><img src="https://img.shields.io/github/languages/top/Benny29281/SorexBrandingLaravel?style=flat-square&color=7928CA" /></a>
+<a href="https://github.com/Benny29281/SorexBrandingLaravel"><img src="https://img.shields.io/github/last-commit/Benny29281/SorexBrandingLaravel?style=flat-square&color=0070F3" /></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -382,20 +433,16 @@ Website portofolio dengan **ilustrasi CSS 3D**, filter & pencarian proyek, dan h
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Benny29281&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benny29281&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br>
-
 <img src="https://streak-stats.demolab.com?user=Benny29281&theme=tokyonight&hide_border=true&border_radius=10" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Benny29281&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Benny29281&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00F5D4&line=7928CA&point=FF0080" width="100%" />
+<!-- Kartu di bawah dibuat otomatis oleh GitHub Action (.github/workflows/profile-3d.yml), jadi tidak tergantung server pihak ketiga -->
+<img src="https://raw.githubusercontent.com/Benny29281/Benny29281/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" />
+<img src="https://raw.githubusercontent.com/Benny29281/Benny29281/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+<img src="https://raw.githubusercontent.com/Benny29281/Benny29281/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
+<img src="https://raw.githubusercontent.com/Benny29281/Benny29281/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
+<img src="https://raw.githubusercontent.com/Benny29281/Benny29281/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
 
 </div>
 
