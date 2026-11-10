@@ -1,36 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=BENNY%20DWIYANTO&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff&color=0:FF0080,25:7928CA,50:0070F3,75:00DFD8,100:00FF9D" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=BENNY%20DWIYANTO&fontSize=62&fontAlignY=38&animation=twinkling&fontColor=ffffff&color=0:FF0080,25:7928CA,50:0070F3,75:00DFD8,100:00FF9D&desc=Software%20Developer%20%E2%80%A2%20Backend%20%E2%80%A2%20Frontend%20%E2%80%A2%20Mobile%20%E2%80%A2%20ML&descSize=18&descAlignY=62" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=00F5D4,F72585,4CC9F0,FEE440&center=true&vCenter=true&multiline=true&width=900&height=100&lines=SOFTWARE+DEVELOPER+%F0%9F%92%BB;BACKEND+%7C+FRONTEND+%7C+MOBILE+%F0%9F%93%B1;MACHINE+LEARNING+ENTHUSIAST+%F0%9F%A4%96;BUILDING+SOFTWARE+THAT+SOLVES+REAL+PROBLEMS+%F0%9F%9A%80" />
+<a href="https://github.com/Benny29281">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=00F5D4&center=true&vCenter=true&multiline=true&width=900&height=110&lines=Hai%2C+saya+Benny+Dwiyanto+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB+%7C+Mobile+%F0%9F%93%B1+%7C+ML+%F0%9F%A4%96;Membangun+software+yang+menyelesaikan+masalah+nyata+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=php,python,java,js,laravel,react,mysql,flask,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,python,java,js,laravel,react,flask,mysql,git,github&theme=dark" />
 
 <br><br>
 
 <a href="https://github.com/Benny29281">
-<img src="https://komarev.com/ghpvc/?username=Benny29281&label=PROFILE%20VIEWS&color=gradient&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Benny29281&label=PROFILE%20VIEWS&color=7928CA&style=for-the-badge" />
 </a>
 <a href="https://github.com/Benny29281?tab=followers">
-<img src="https://img.shields.io/github/followers/Benny29281?style=for-the-badge&logo=github&label=FOLLOWERS&color=blueviolet" />
+<img src="https://img.shields.io/github/followers/Benny29281?style=for-the-badge&logo=github&label=FOLLOWERS&color=0070F3" />
 </a>
-<a href="https://github.com/Benny29281?tab=stars">
-<img src="https://img.shields.io/github/stars/Benny29281?style=for-the-badge&logo=github&label=STARS&color=yellow" />
+<a href="https://github.com/Benny29281?tab=repositories">
+<img src="https://img.shields.io/github/stars/Benny29281?style=for-the-badge&logo=github&label=STARS&color=FEE440&labelColor=222" />
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
 ## `> INITIALIZING BENNY_DWIYANTO...`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1200&pause=500&color=00FF88&center=true&vCenter=true&width=650&lines=%5BOK%5D+Loading+developer+profile...;%5BOK%5D+Backend+module+initialized;%5BOK%5D+Frontend+module+initialized;%5BOK%5D+Machine+Learning+module+initialized;%5BOK%5D+Database+module+initialized;%5BOK%5D+All+systems+operational.;%3E+WELCOME+TO+MY+DIGITAL+SPACE." />
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1200&pause=500&color=00FF88&center=true&vCenter=true&width=650&lines=%5BOK%5D+Loading+developer+profile...;%5BOK%5D+Backend+module+initialized;%5BOK%5D+Frontend+module+initialized;%5BOK%5D+Mobile+module+initialized;%5BOK%5D+Machine+Learning+module+initialized;%5BOK%5D+Database+module+initialized;%5BOK%5D+All+systems+operational.;%3E+WELCOME+TO+MY+DIGITAL+SPACE." />
 
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/gifs/Bottom.gif" width="100%">
 
@@ -47,22 +47,12 @@
 
 ### `WHO AM I?`
 
-Hai! Saya **BENNY DWIYANTO**, lulusan Teknologi Informasi dengan minat besar pada pengembangan perangkat lunak, sistem backend, aplikasi web & mobile, database, dan machine learning.
+Hai! Saya **Benny Dwiyanto**, lulusan Teknologi Informasi dengan minat besar pada **pengembangan perangkat lunak, sistem backend, aplikasi web & mobile, database, dan machine learning**.
 
 Saya senang mengubah ide dan permasalahan dunia nyata menjadi solusi software yang praktis dan berguna.
 
 ```text
-Frontend
-   ↓
-Backend
-   ↓
-   API
-   ↓
-Database
-   ↓
-Machine Learning
-   ↓
-Deployment
+Frontend → Backend → API → Database → Machine Learning → Deployment
 ```
 
 </td>
@@ -72,19 +62,12 @@ Deployment
 
 ```text
 ┌──────────────────────────────┐
-│  👨‍💻 BENNY DWIYANTO          │
+│  👨‍💻 BENNY DWIYANTO           │
 │                              │
-│  Role                       │
-│  Software Developer         │
-│                              │
-│  Focus                      │
-│  Backend • Frontend • ML    │
-│                              │
-│  Location                   │
-│  Indonesia 🇮🇩              │
-│                              │
-│  Status                     │
-│  ● ONLINE                   │
+│  Role      : Software Dev    │
+│  Focus     : Backend • ML    │
+│  Location  : Indonesia 🇮🇩    │
+│  Status    : ● ONLINE        │
 └──────────────────────────────┘
 ```
 
@@ -97,6 +80,17 @@ Deployment
 
 ---
 
+# 🧊 `3D_CONTRIBUTION_WORLD`
+
+<div align="center">
+
+<!-- File ini dibuat otomatis oleh GitHub Action (lihat file .github/workflows/profile-3d.yml) -->
+<img src="https://raw.githubusercontent.com/Benny29281/Benny29281/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+
+</div>
+
+---
+
 # ⚡ `WHAT_I_BUILD`
 
 <div align="center">
@@ -104,7 +98,7 @@ Deployment
 | ⚙️ BACKEND | 🎨 FRONTEND | 📱 MOBILE | 🤖 MACHINE LEARNING |
 | :--------: | :---------: | :-------: | :------------------: |
 | REST API | Web UI | React Native | Classification |
-| Laravel | HTML/CSS | API Integration | LightGBM |
+| Laravel | HTML / CSS | API Integration | LightGBM |
 | PHP | JavaScript | Authentication | XGBoost |
 | Flask | Bootstrap | Database | Data Processing |
 | MySQL | Responsive UI | Mobile UX | Model Evaluation |
@@ -117,21 +111,44 @@ Deployment
 
 <div align="center">
 
-### LANGUAGES
+### 🔤 Languages
 <img src="https://skillicons.dev/icons?i=php,python,java,js,mysql&theme=dark" />
 
-### FRAMEWORKS & DEVELOPMENT
+### 🧩 Frameworks & Development
 <img src="https://skillicons.dev/icons?i=laravel,flask,react,bootstrap,html,css&theme=dark" />
 
-### DATA & MACHINE LEARNING
+### 🤖 Data & Machine Learning
 <img src="https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge" />
 <img src="https://img.shields.io/badge/XGBoost-EC0000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
-### TOOLS
+### 🧰 Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,wordpress&theme=dark" />
+
+</div>
+
+---
+
+# 📊 `GITHUB_STATS`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Benny29281&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benny29281&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Benny29281&theme=tokyonight&hide_border=true&border_radius=10" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Benny29281&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Benny29281&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00F5D4&line=7928CA&point=FF0080" width="100%" />
 
 </div>
 
@@ -145,7 +162,7 @@ Deployment
 IDEA → UNDERSTAND PROBLEM → ANALYZE → BUILD → TEST & DEBUG → DEPLOY → IMPROVE → 🔄 REPEAT
 ```
 
-### `THINK → BUILD → BREAK → FIX → LEARN → REPEAT`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=700&lines=THINK+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+FIX+%E2%86%92+LEARN+%E2%86%92+REPEAT" />
 
 </div>
 
@@ -163,37 +180,42 @@ IDEA → UNDERSTAND PROBLEM → ANALYZE → BUILD → TEST & DEBUG → DEPLOY �
 
 ### `Machine Learning Based Asthma Screening Application`
 
-AsthmaScreen adalah aplikasi mobile untuk **skrining dini asma** menggunakan model klasifikasi machine learning — menggabungkan `Mobile Development` + `Backend API` + `Database` + `Machine Learning`.
+AsthmaScreen adalah aplikasi mobile untuk **skrining dini asma** menggunakan model klasifikasi machine learning, menggabungkan `Mobile Development` + `Backend API` + `Database` + `Machine Learning`.
 
 </div>
 
-### 🔥 Core Features
-```text
-📱 Mobile Application   🔐 Authentication   👤 User Profile
-🫁 Asthma Screening      🧠 ML Classification   ⚙️ Flask REST API
-🗄️ MySQL Database        📋 Screening History    📄 PDF Report
-📊 Model Evaluation
+### 🔥 Fitur Utama
+
+| 📱 Mobile App | 🔐 Authentication | 👤 User Profile |
+| :--- | :--- | :--- |
+| 🫁 Asthma Screening | 🧠 ML Classification | ⚙️ Flask REST API |
+| 🗄️ MySQL Database | 📋 Screening History | 📄 PDF Report |
+| 📊 Model Evaluation | | |
+
+### 🧬 System Architecture
+
+```mermaid
+flowchart TD
+    A["📱 React Native Mobile App"] -->|REST API| B["⚙️ Flask API (Python)"]
+    B --> C["🧠 ML Engine<br/>LightGBM / XGBoost"]
+    B --> D[("🗄️ MySQL<br/>Users / History")]
+    C --> B
+    B --> A
+    style A fill:#7928CA,stroke:#fff,color:#fff
+    style B fill:#0070F3,stroke:#fff,color:#fff
+    style C fill:#00B894,stroke:#fff,color:#fff
+    style D fill:#F72585,stroke:#fff,color:#fff
 ```
 
-### 🧬 SYSTEM ARCHITECTURE
+### 🤖 Machine Learning Pipeline
 
-```text
-   REACT NATIVE MOBILE APP
-            │ REST API
-            ▼
-       FLASK API (PYTHON)
-            │
-   ┌────────┴────────┐
-   ▼                 ▼
-ML ENGINE          MYSQL DATABASE
-LightGBM/XGBoost    Users / History
-```
-
-### 🤖 MACHINE LEARNING PIPELINE
-```text
-DATASET → EXPLORATION → PREPROCESSING → FEATURE SET → ADASYN
-→ TRAIN/TEST → LIGHTGBM & XGBOOST → MODEL EVALUATION
-→ BEST MODEL → FLASK API → MOBILE APPLICATION
+```mermaid
+flowchart LR
+    A[Dataset] --> B[Exploration] --> C[Preprocessing] --> D[Feature Set] --> E[ADASYN]
+    E --> F[Train / Test] --> G["LightGBM & XGBoost"] --> H[Model Evaluation] --> I[Best Model]
+    I --> J[Flask API] --> K[Mobile App]
+    style G fill:#00B894,stroke:#fff,color:#fff
+    style K fill:#7928CA,stroke:#fff,color:#fff
 ```
 
 ---
@@ -203,12 +225,12 @@ DATASET → EXPLORATION → PREPROCESSING → FEATURE SET → ADASYN
 ## `SOREX — IT SUPPORT & SOFTWARE DEVELOPMENT`
 **PT Prakarsa Jaya Sentosa / SOREX** · `JAN 2025 — JUN 2025`
 
-- Mengembangkan dashboard web internal
-- Membangun fitur manajemen request branding tool
-- Bekerja dengan **PHP Native, Bootstrap, MySQL, dan Laragon**
-- Menggunakan Git & GitHub untuk source code management
-- Berkontribusi pada pengembangan & maintenance website
-- Membantu tugas teknis IT dan pelaporan
+- 🖥️ Mengembangkan dashboard web internal
+- 🧩 Membangun fitur manajemen request branding tool
+- ⚙️ Bekerja dengan **PHP Native, Bootstrap, MySQL, dan Laragon**
+- 🔀 Menggunakan Git & GitHub untuk source code management
+- 🌐 Berkontribusi pada pengembangan & maintenance website
+- 📝 Membantu tugas teknis IT dan pelaporan
 
 ---
 
@@ -236,38 +258,42 @@ DATASET → EXPLORATION → PREPROCESSING → FEATURE SET → ADASYN
 
 ```text
 ┌────────────────────────────────────────────────────────────┐
-│ BENNY@DEVELOPER:~$                                          │
+│ benny@developer:~$                                         │
 ├────────────────────────────────────────────────────────────┤
-│ $ whoami          → BENNY DWIYANTO                          │
-│ $ role             → Software Developer                     │
-│ $ specialization   → Backend / Frontend / Mobile / ML        │
-│ $ languages        → PHP / Python / Java / JS / SQL          │
-│ $ database         → MySQL                                  │
-│ $ current_status   → ● ONLINE                                │
-│ $ echo "Let's build something." → Let's build something.    │
-│ $ █                                                          │
+│ $ whoami           → Benny Dwiyanto                        │
+│ $ role             → Software Developer                    │
+│ $ specialization   → Backend / Frontend / Mobile / ML      │
+│ $ languages        → PHP / Python / Java / JS / SQL        │
+│ $ database         → MySQL                                 │
+│ $ status           → ● ONLINE                              │
+│ $ echo "Let's build something."                            │
+│ Let's build something.                                     │
+│ $ █                                                        │
 └────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
+---
 
-# 🐍 `CONTRIBUTION_ACTIVITY`
+# 🐍 `CONTRIBUTION_SNAKE`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Benny29281/Benny29281/output/github-contribution-grid-snake.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Benny29281/Benny29281/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
+
+---
 
 # 🔭 `CURRENTLY_EXPLORING`
 
 <div align="center">
 
 ```text
-☁️ CLOUD & DEPLOYMENT → ⚙️ BACKEND ARCHITECTURE → 🔗 REST API & INTEGRATION
-→ 🤖 MACHINE LEARNING → 📱 MOBILE DEVELOPMENT → 🌐 MODERN WEB DEVELOPMENT
-→ 🗄️ DATABASE OPTIMIZATION → 🚀 SOFTWARE ENGINEERING
+☁️ Cloud & Deployment → ⚙️ Backend Architecture → 🔗 REST API & Integration
+→ 🤖 Machine Learning → 📱 Mobile Development → 🌐 Modern Web Development
+→ 🗄️ Database Optimization → 🚀 Software Engineering
 ```
 
 </div>
@@ -299,8 +325,8 @@ DATASET → EXPLORATION → PREPROCESSING → FEATURE SET → ADASYN
 
 <br><br>
 
-### `💻 CODE • BUILD • LEARN • REPEAT`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+CODE+%E2%80%A2+BUILD+%E2%80%A2+LEARN+%E2%80%A2+REPEAT" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=twinkling&color=0:00FF9D,25:00DFD8,50:0070F3,75:7928CA,100:FF0080" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=160&section=footer&animation=twinkling&color=0:00FF9D,25:00DFD8,50:0070F3,75:7928CA,100:FF0080" width="100%"/>
 
 </div>
