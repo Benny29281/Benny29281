@@ -437,13 +437,6 @@ Website portofolio dengan **ilustrasi CSS 3D**, filter & pencarian proyek, dan h
 
 <br><br>
 
-<!-- Kartu di bawah dibuat otomatis oleh GitHub Action (.github/workflows/profile-3d.yml), jadi tidak tergantung server pihak ketiga -->
-<img src="https://raw.githubusercontent.com/Benny29281/Benny29281/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" />
-<img src="https://raw.githubusercontent.com/Benny29281/Benny29281/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
-<img src="https://raw.githubusercontent.com/Benny29281/Benny29281/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
-<img src="https://raw.githubusercontent.com/Benny29281/Benny29281/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
-<img src="https://raw.githubusercontent.com/Benny29281/Benny29281/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
-
 </div>
 
 ---
