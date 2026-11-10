@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=BENNY%20DWIYANTO&fontSize=62&fontAlignY=38&animation=twinkling&fontColor=ffffff&color=0:FF0080,25:7928CA,50:0070F3,75:00DFD8,100:00FF9D&desc=Software%20Developer%20%E2%80%A2%20Backend%20%E2%80%A2%20Frontend%20%E2%80%A2%20Mobile%20%E2%80%A2%20ML&descSize=18&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=BENNY%20DWIYANTO&fontSize=62&fontAlignY=38&animation=twinkling&fontColor=ffffff&color=0:FF0080,25:7928CA,50:0070F3,75:00DFD8,100:00FF9D&desc=Software%20Developer%20%E2%80%A2%20Backend%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20ML&descSize=18&descAlignY=62" width="100%"/>
 
 <a href="https://github.com/Benny29281">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=00F5D4&center=true&vCenter=true&multiline=true&width=900&height=110&lines=Hai%2C+saya+Benny+Dwiyanto+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB+%7C+Mobile+%F0%9F%93%B1+%7C+ML+%F0%9F%A4%96;Membangun+software+yang+menyelesaikan+masalah+nyata+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=00F5D4&center=true&vCenter=true&multiline=true&width=900&height=110&lines=Hai%2C+saya+Benny+Dwiyanto+%F0%9F%91%8B;Go+%7C+PHP+%7C+C%23+%7C+TypeScript+%7C+Python+%F0%9F%92%BB;Membangun+software+yang+menyelesaikan+masalah+nyata+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=php,python,java,js,laravel,react,flask,mysql,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=go,php,cs,python,java,ts,js,laravel,dotnet,angular,nextjs,react,flask&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,redis,kafka,firebase,docker,tailwind,bootstrap,git,github&theme=dark" />
 
 <br><br>
 
@@ -19,7 +21,7 @@
 <img src="https://img.shields.io/github/followers/Benny29281?style=for-the-badge&logo=github&label=FOLLOWERS&color=0070F3" />
 </a>
 <a href="https://github.com/Benny29281?tab=repositories">
-<img src="https://img.shields.io/github/stars/Benny29281?style=for-the-badge&logo=github&label=STARS&color=FEE440&labelColor=222" />
+<img src="https://img.shields.io/badge/REPOSITORIES-14-00C853?style=for-the-badge&logo=github" />
 </a>
 
 </div>
@@ -30,7 +32,7 @@
 
 ## `> INITIALIZING BENNY_DWIYANTO...`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1200&pause=500&color=00FF88&center=true&vCenter=true&width=650&lines=%5BOK%5D+Loading+developer+profile...;%5BOK%5D+Backend+module+initialized;%5BOK%5D+Frontend+module+initialized;%5BOK%5D+Mobile+module+initialized;%5BOK%5D+Machine+Learning+module+initialized;%5BOK%5D+Database+module+initialized;%5BOK%5D+All+systems+operational.;%3E+WELCOME+TO+MY+DIGITAL+SPACE." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1200&pause=500&color=00FF88&center=true&vCenter=true&width=650&lines=%5BOK%5D+Loading+developer+profile...;%5BOK%5D+Backend+module+initialized;%5BOK%5D+Web+module+initialized;%5BOK%5D+Mobile+module+initialized;%5BOK%5D+Machine+Learning+module+initialized;%5BOK%5D+All+systems+operational.;%3E+WELCOME+TO+MY+DIGITAL+SPACE." />
 
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/gifs/Bottom.gif" width="100%">
 
@@ -47,12 +49,12 @@
 
 ### `WHO AM I?`
 
-Hai! Saya **Benny Dwiyanto**, lulusan Teknologi Informasi dengan minat besar pada **pengembangan perangkat lunak, sistem backend, aplikasi web & mobile, database, dan machine learning**.
+Hai! Saya **Benny Dwiyanto**, lulusan **Teknik Informatika, Universitas Tarumanagara**, dengan minat besar pada **backend, aplikasi web & mobile, database, dan machine learning**.
 
-Saya senang mengubah ide dan permasalahan dunia nyata menjadi solusi software yang praktis dan berguna.
+Saya senang mengubah masalah nyata menjadi software yang praktis, mulai dari sistem manajemen internal, aplikasi mobile, sampai backend flash-sale dengan Go.
 
 ```text
-Frontend → Backend → API → Database → Machine Learning → Deployment
+Frontend → Backend → API → Database → ML → Deployment
 ```
 
 </td>
@@ -65,7 +67,8 @@ Frontend → Backend → API → Database → Machine Learning → Deployment
 │  👨‍💻 BENNY DWIYANTO           │
 │                              │
 │  Role      : Software Dev    │
-│  Focus     : Backend • ML    │
+│  Focus     : Backend • Web   │
+│  Learning  : Go • .NET • ML  │
 │  Location  : Indonesia 🇮🇩    │
 │  Status    : ● ONLINE        │
 └──────────────────────────────┘
@@ -84,7 +87,6 @@ Frontend → Backend → API → Database → Machine Learning → Deployment
 
 <div align="center">
 
-<!-- File ini dibuat otomatis oleh GitHub Action (lihat file .github/workflows/profile-3d.yml) -->
 <img src="https://raw.githubusercontent.com/Benny29281/Benny29281/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
 
 </div>
@@ -95,13 +97,13 @@ Frontend → Backend → API → Database → Machine Learning → Deployment
 
 <div align="center">
 
-| ⚙️ BACKEND | 🎨 FRONTEND | 📱 MOBILE | 🤖 MACHINE LEARNING |
-| :--------: | :---------: | :-------: | :------------------: |
-| REST API | Web UI | React Native | Classification |
-| Laravel | HTML / CSS | API Integration | LightGBM |
-| PHP | JavaScript | Authentication | XGBoost |
-| Flask | Bootstrap | Database | Data Processing |
-| MySQL | Responsive UI | Mobile UX | Model Evaluation |
+| ⚙️ BACKEND | 🌐 WEB | 📱 MOBILE | 🤖 MACHINE LEARNING |
+| :--------: | :----: | :-------: | :------------------: |
+| Go (Golang) | Next.js + TypeScript | React Native (Expo) | Klasifikasi tabular |
+| ASP.NET Core | Angular | Android (Java) | LightGBM |
+| Laravel (PHP) | Laravel Blade | Firebase | XGBoost |
+| Flask | Tailwind • Bootstrap | REST API client | Evaluasi model |
+| JWT • Redis • Kafka | Payload CMS | Autentikasi | Data processing |
 
 </div>
 
@@ -112,22 +114,267 @@ Frontend → Backend → API → Database → Machine Learning → Deployment
 <div align="center">
 
 ### 🔤 Languages
-<img src="https://skillicons.dev/icons?i=php,python,java,js,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=go,php,cs,python,java,ts,js,html,css&theme=dark" />
 
-### 🧩 Frameworks & Development
-<img src="https://skillicons.dev/icons?i=laravel,flask,react,bootstrap,html,css&theme=dark" />
+### 🧩 Frameworks
+<img src="https://skillicons.dev/icons?i=laravel,dotnet,angular,nextjs,react,flask,tailwind,bootstrap,vite&theme=dark" />
 
-### 🤖 Data & Machine Learning
+### 🗄️ Data & Infrastructure
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,sqlite,redis,kafka,firebase,docker&theme=dark" />
+
+### 🤖 Machine Learning
 <img src="https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge" />
 <img src="https://img.shields.io/badge/XGBoost-EC0000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
 ### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,wordpress&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,androidstudio,postman,wordpress&theme=dark" />
 
 </div>
+
+---
+
+# 🚀 `PROJECTS`
+
+<div align="center">
+
+### 📌 Daftar Proyek
+
+| # | Proyek | Jenis | Stack utama | Repo |
+|:-:|:-------|:------|:------------|:----:|
+| 01 | 🫁 **AsthmaScreen** | Mobile + ML | React Native • Flask • LightGBM • XGBoost • MySQL | [🔗](https://github.com/Benny29281/Asthmascreen) |
+| 02 | 🛒 **BenzMart** | Backend flash sale | Go • MySQL • Kafka • Redis • Docker | [🔗](https://github.com/Benny29281/benzmart_go-golang-) |
+| 03 | 🎫 **HelpDeskKu** | Ticketing IT | ASP.NET Core 8 • Angular • SQL Server | [🔗](https://github.com/Benny29281/project-tiket) |
+| 04 | 🌏 **Indonesia Pacific Trade** | Company profile + commerce | Next.js • TypeScript • Payload CMS • PostgreSQL | [🔗](https://github.com/Benny29281/Project-Website-IPT-) |
+| 05 | 🎮 **Steizen Store** | Top-up game | Laravel 13 • Blade • SQLite/MySQL | [🔗](https://github.com/Benny29281/Steizen-top-up) |
+| 06 | 🏷️ **Sorex.id** | Manajemen request branding | Laravel • Bootstrap • jQuery • Tailwind | [🔗](https://github.com/Benny29281/SorexBrandingLaravel) |
+| 07 | ☕ **Atlantis Nako** | Android app | Java • Firebase | [🔗](https://github.com/Benny29281/Atlantis-Nako) |
+| 08 | 🖼️ **IPT Katalog** | Galeri Google Drive | HTML • JavaScript • Google Drive API | [🔗](https://github.com/Benny29281/project-katalog) |
+| 09 | 🎨 **Portofolio** | Website portofolio | React • Vite • CSS 3D | [🔗](https://github.com/Benny29281/Portofolio_Benny_Dwiyanto) |
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Benny29281/Asthmascreen"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Benny29281&repo=Asthmascreen&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Benny29281/benzmart_go-golang-"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Benny29281&repo=benzmart_go-golang-&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Benny29281/project-tiket"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Benny29281&repo=project-tiket&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Benny29281/Project-Website-IPT-"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Benny29281&repo=Project-Website-IPT-&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Benny29281/Steizen-top-up"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Benny29281&repo=Steizen-top-up&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Benny29281/SorexBrandingLaravel"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Benny29281&repo=SorexBrandingLaravel&theme=tokyonight&hide_border=true" /></a>
+
+</div>
+
+---
+
+## 🫁 `01 · ASTHMASCREEN`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/TYPE-MOBILE%20%2B%20ML-36BCF7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FRONTEND-REACT%20NATIVE%20(EXPO)-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/API-FLASK-000000?style=for-the-badge&logo=flask" />
+<img src="https://img.shields.io/badge/DB-MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+**Aplikasi klasifikasi dan skrining awal risiko asma** (skripsi, Teknik Informatika UNTAR). Aplikasi mobile mengirim **27 atribut klinis** ke backend Flask, lalu model machine learning mengembalikan hasil prediksi risiko.
+
+> ⚠️ Fokus proyek adalah alur skrining risiko, **bukan diagnosis medis**.
+
+</div>
+
+**Fitur:** form skrining 27 atribut klinis • hasil prediksi & analisis • autentikasi & profil • riwayat skrining • ekspor PDF • evaluasi model
+
+```mermaid
+flowchart LR
+    A["📱 React Native<br/>(Expo)"] -->|REST API| B["⚙️ Flask Server"]
+    B --> C["🧠 LightGBM / XGBoost<br/>(model .pkl)"]
+    B --> D[("🗄️ MySQL<br/>akun & riwayat")]
+    C --> B --> A
+    style A fill:#7928CA,stroke:#fff,color:#fff
+    style B fill:#0070F3,stroke:#fff,color:#fff
+    style C fill:#00B894,stroke:#fff,color:#fff
+    style D fill:#F72585,stroke:#fff,color:#fff
+```
+
+```text
+DATASET → EKSPLORASI → PREPROCESSING → OVERSAMPLING → TRAIN/TEST
+→ LIGHTGBM & XGBOOST → EVALUASI → MODEL TERBAIK → FLASK API → MOBILE APP
+```
+
+🔗 [Lihat repository](https://github.com/Benny29281/Asthmascreen) · Dilengkapi `Dockerfile`, `Procfile`, manual book, dan panduan instalasi.
+
+---
+
+## 🛒 `02 · BENZMART` &nbsp;<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-FFA500?style=flat-square" />
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+**Backend platform e-commerce flash sale** berbasis PRD, dimulai sebagai *modular monolith*.
+
+</div>
+
+**Sudah tersedia:**
+- 🔐 Registrasi (UUIDv7, bcrypt cost 12), login **JWT HS256** (15 menit) + refresh token acak (7 hari)
+- ♻️ Rotasi refresh token dengan transaksi & row lock, disimpan sebagai hash SHA-256
+- 🚦 Rate limit berbasis Redis untuk login, registrasi, dan refresh
+- 👮 RBAC, endpoint admin, profil pengguna
+- 🧪 Migrasi MySQL berversi (`golang-migrate`), health/readiness check, structured logging, graceful shutdown
+- 🐳 Docker Compose + CI GitHub Actions (MySQL 8.4)
+
+**Berikutnya:** katalog, campaign flash sale, checkout, outbox + event Kafka, pembayaran.
+
+🔗 [Lihat repository](https://github.com/Benny29281/benzmart_go-golang-)
+
+---
+
+## 🎫 `03 · HELPDESKKU` &nbsp;<img src="https://img.shields.io/badge/STATUS-MVP-00C853?style=flat-square" />
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET%20Core%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+**Aplikasi manajemen tiket dukungan IT** dengan tiga role (Requester, Agent, Admin).
+
+</div>
+
+**Fitur:** nomor tiket otomatis `HD-YYYYMM-0001` • filter status/prioritas/kategori/agen • transisi status & penugasan agen • komentar publik + catatan internal • timeline otomatis • dashboard per role • target SLA & penanda overdue • arsip tiket • JWT + refresh token berotasi + lockout • tes otomatis workflow & otorisasi • CI.
+
+```mermaid
+flowchart LR
+    U["👤 Requester"] --> F["🅰️ Angular"]
+    G["🧑‍💻 Agent / Admin"] --> F
+    F -->|JWT| A["⚙️ ASP.NET Core 8 API"]
+    A --> E["EF Core"] --> S[("🗄️ SQL Server")]
+    style F fill:#DD0031,stroke:#fff,color:#fff
+    style A fill:#512BD4,stroke:#fff,color:#fff
+    style S fill:#CC2927,stroke:#fff,color:#fff
+```
+
+🔗 [Lihat repository](https://github.com/Benny29281/project-tiket)
+
+---
+
+## 🌏 `04 · INDONESIA PACIFIC TRADE`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Payload%20CMS-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+**Website company profile PT Indonesia Pacific Trade** dengan fondasi e-commerce.
+
+</div>
+
+- 🌐 Konten **empat bahasa**: Indonesia, Inggris, Mandarin, Korea (`next-intl`)
+- 🧱 Next.js App Router + Payload CMS + PostgreSQL
+- 🏢 Halaman bidang bisnis (ICT, Photography, Consumer Electronics, Non-Heat Burns), footer company profile, halaman kebijakan
+- 🛍️ Katalog produk, keranjang, dan integrasi Midtrans *(perlu konfigurasi layanan & database sebelum dipakai)*
+
+🔗 [Lihat repository](https://github.com/Benny29281/Project-Website-IPT-)
+
+---
+
+## 🎮 `05 · STEIZEN STORE` &nbsp;<img src="https://img.shields.io/badge/MODE-DEMO%20%2F%20SANDBOX-8A2BE2?style=flat-square" />
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Laravel%2013-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP%208.4-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+**Website top-up multi game** dengan tema biru-ungu.
+
+</div>
+
+- 🎯 Katalog **8 game**, pencarian, filter kategori, formulir per game, pilihan nominal
+- 🧾 Pesanan permanen & invoice, dashboard admin
+- 🔌 Konektor katalog **Digiflazz** dan pembayaran **Tripay sandbox** tersedia di kode
+- 🛡️ Dilengkapi `SECURITY.md`, tes, dan konfigurasi deploy Apache
+- ℹ️ Pembayaran riil & pengiriman item belum diaktifkan
+
+🔗 [Lihat repository](https://github.com/Benny29281/Steizen-top-up)
+
+---
+
+## 🏷️ `06 · SOREX.ID — BRANDING REQUEST SYSTEM`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+**Sistem pengelolaan permintaan branding** dari berbagai wilayah, dengan alur akses dan pelaporan yang terstruktur. Dikembangkan saat magang di SOREX.
+
+</div>
+
+```text
+branding_status (HTML/JS)  →  Sorex_branding (PHP Native)  →  SorexBrandingLaravel (Laravel)
+     prototipe awal              dashboard + export Excel          versi terbaru, lebih terstruktur
+```
+
+🔗 [Repo Laravel](https://github.com/Benny29281/SorexBrandingLaravel) · [Repo PHP Native](https://github.com/Benny29281/Sorex_branding) · [Prototipe awal](https://github.com/Benny29281/branding_status)
+
+---
+
+## 🧩 `PROYEK LAINNYA`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ☕ Atlantis Nako
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+
+Aplikasi Android yang menggabungkan **pembelian kopi dan tiket wahana** dalam satu alur transaksi.
+
+[🔗 Repo](https://github.com/Benny29281/Atlantis-Nako)
+
+</td>
+<td width="33%" valign="top">
+
+### 🖼️ IPT Katalog
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Drive%20API-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
+
+Galeri foto berbasis **Google Drive** dengan pencarian, tampilan grid/list, dan lightbox. Di-host gratis di GitHub Pages.
+
+[🔗 Repo](https://github.com/Benny29281/project-katalog)
+
+</td>
+<td width="33%" valign="top">
+
+### 🎨 Portofolio
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+
+Website portofolio dengan **ilustrasi CSS 3D**, filter & pencarian proyek, dan halaman detail. Siap deploy ke GitHub Pages.
+
+[🔗 Repo](https://github.com/Benny29281/Portofolio_Benny_Dwiyanto)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -154,72 +401,6 @@ Frontend → Backend → API → Database → Machine Learning → Deployment
 
 ---
 
-# 🧠 `DEVELOPER_MINDSET`
-
-<div align="center">
-
-```text
-IDEA → UNDERSTAND PROBLEM → ANALYZE → BUILD → TEST & DEBUG → DEPLOY → IMPROVE → 🔄 REPEAT
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=700&lines=THINK+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+FIX+%E2%86%92+LEARN+%E2%86%92+REPEAT" />
-
-</div>
-
----
-
-# 🚀 `FEATURED_PROJECT`
-
-<div align="center">
-
-## 🫁 `ASTHMASCREEN`
-
-<img src="https://img.shields.io/badge/PROJECT-MACHINE%20LEARNING-36BCF7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PLATFORM-MOBILE-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/STATUS-COMPLETED-00C853?style=for-the-badge" />
-
-### `Machine Learning Based Asthma Screening Application`
-
-AsthmaScreen adalah aplikasi mobile untuk **skrining dini asma** menggunakan model klasifikasi machine learning, menggabungkan `Mobile Development` + `Backend API` + `Database` + `Machine Learning`.
-
-</div>
-
-### 🔥 Fitur Utama
-
-| 📱 Mobile App | 🔐 Authentication | 👤 User Profile |
-| :--- | :--- | :--- |
-| 🫁 Asthma Screening | 🧠 ML Classification | ⚙️ Flask REST API |
-| 🗄️ MySQL Database | 📋 Screening History | 📄 PDF Report |
-| 📊 Model Evaluation | | |
-
-### 🧬 System Architecture
-
-```mermaid
-flowchart TD
-    A["📱 React Native Mobile App"] -->|REST API| B["⚙️ Flask API (Python)"]
-    B --> C["🧠 ML Engine<br/>LightGBM / XGBoost"]
-    B --> D[("🗄️ MySQL<br/>Users / History")]
-    C --> B
-    B --> A
-    style A fill:#7928CA,stroke:#fff,color:#fff
-    style B fill:#0070F3,stroke:#fff,color:#fff
-    style C fill:#00B894,stroke:#fff,color:#fff
-    style D fill:#F72585,stroke:#fff,color:#fff
-```
-
-### 🤖 Machine Learning Pipeline
-
-```mermaid
-flowchart LR
-    A[Dataset] --> B[Exploration] --> C[Preprocessing] --> D[Feature Set] --> E[ADASYN]
-    E --> F[Train / Test] --> G["LightGBM & XGBoost"] --> H[Model Evaluation] --> I[Best Model]
-    I --> J[Flask API] --> K[Mobile App]
-    style G fill:#00B894,stroke:#fff,color:#fff
-    style K fill:#7928CA,stroke:#fff,color:#fff
-```
-
----
-
 # 🏢 `EXPERIENCE`
 
 ## `SOREX — IT SUPPORT & SOFTWARE DEVELOPMENT`
@@ -231,6 +412,20 @@ flowchart LR
 - 🔀 Menggunakan Git & GitHub untuk source code management
 - 🌐 Berkontribusi pada pengembangan & maintenance website
 - 📝 Membantu tugas teknis IT dan pelaporan
+
+---
+
+# 🧠 `DEVELOPER_MINDSET`
+
+<div align="center">
+
+```text
+IDEA → UNDERSTAND PROBLEM → ANALYZE → BUILD → TEST & DEBUG → DEPLOY → IMPROVE → 🔄 REPEAT
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=700&lines=THINK+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+FIX+%E2%86%92+LEARN+%E2%86%92+REPEAT" />
+
+</div>
 
 ---
 
@@ -262,9 +457,9 @@ flowchart LR
 ├────────────────────────────────────────────────────────────┤
 │ $ whoami           → Benny Dwiyanto                        │
 │ $ role             → Software Developer                    │
-│ $ specialization   → Backend / Frontend / Mobile / ML      │
-│ $ languages        → PHP / Python / Java / JS / SQL        │
-│ $ database         → MySQL                                 │
+│ $ education        → Teknik Informatika, UNTAR             │
+│ $ languages        → Go / PHP / C# / TS / Python / Java    │
+│ $ databases        → MySQL / PostgreSQL / SQL Server       │
 │ $ status           → ● ONLINE                              │
 │ $ echo "Let's build something."                            │
 │ Let's build something.                                     │
@@ -291,9 +486,9 @@ flowchart LR
 <div align="center">
 
 ```text
-☁️ Cloud & Deployment → ⚙️ Backend Architecture → 🔗 REST API & Integration
-→ 🤖 Machine Learning → 📱 Mobile Development → 🌐 Modern Web Development
-→ 🗄️ Database Optimization → 🚀 Software Engineering
+🐹 Go & Microservices → 📨 Event-driven (Kafka) → 🐳 Docker & CI/CD
+→ ⚙️ Backend Architecture → 🔐 Auth & Security → 🤖 Machine Learning
+→ 🌐 Modern Web (Next.js, Angular) → 🗄️ Database Optimization
 ```
 
 </div>
