@@ -152,8 +152,7 @@ Frontend → Backend → API → Database → ML → Deployment
 | 04 | 🎮 **Steizen Store** | Top-up game | Laravel 13 • Blade • SQLite/MySQL | [🔗](https://github.com/Benny29281/Steizen-top-up) |
 | 05 | 🏷️ **Sorex.id** | Manajemen request branding | Laravel • Bootstrap • jQuery • Tailwind | [🔗](https://github.com/Benny29281/SorexBrandingLaravel) |
 | 06 | ☕ **Atlantis Nako** | Android app | Java • Firebase | [🔗](https://github.com/Benny29281/Atlantis-Nako) |
-| 07 | 🖼️ **IPT Katalog** | Galeri Google Drive | HTML • JavaScript • Google Drive API | [🔗](https://github.com/Benny29281/project-katalog) |
-| 08 | 🎨 **Portofolio** | Website portofolio | React • Vite • CSS 3D | [🔗](https://github.com/Benny29281/Portofolio_Benny_Dwiyanto) |
+| 07 | 🎨 **Portofolio** | Website portofolio | React • Vite • CSS 3D | [🔗](https://github.com/Benny29281/Portofolio_Benny_Dwiyanto) |
 
 </div>
 
