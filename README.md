@@ -149,12 +149,11 @@ Frontend → Backend → API → Database → ML → Deployment
 | 01 | 🫁 **AsthmaScreen** | Mobile + ML | React Native • Flask • LightGBM • XGBoost • MySQL | [🔗](https://github.com/Benny29281/Asthmascreen) |
 | 02 | 🛒 **BenzMart** | Backend flash sale | Go • MySQL • Kafka • Redis • Docker | [🔗](https://github.com/Benny29281/benzmart_go-golang-) |
 | 03 | 🎫 **HelpDeskKu** | Ticketing IT | ASP.NET Core 8 • Angular • SQL Server | [🔗](https://github.com/Benny29281/project-tiket) |
-| 04 | 🌏 **Indonesia Pacific Trade** | Company profile + commerce | Next.js • TypeScript • Payload CMS • PostgreSQL | [🔗](https://github.com/Benny29281/Project-Website-IPT-) |
-| 05 | 🎮 **Steizen Store** | Top-up game | Laravel 13 • Blade • SQLite/MySQL | [🔗](https://github.com/Benny29281/Steizen-top-up) |
-| 06 | 🏷️ **Sorex.id** | Manajemen request branding | Laravel • Bootstrap • jQuery • Tailwind | [🔗](https://github.com/Benny29281/SorexBrandingLaravel) |
-| 07 | ☕ **Atlantis Nako** | Android app | Java • Firebase | [🔗](https://github.com/Benny29281/Atlantis-Nako) |
-| 08 | 🖼️ **IPT Katalog** | Galeri Google Drive | HTML • JavaScript • Google Drive API | [🔗](https://github.com/Benny29281/project-katalog) |
-| 09 | 🎨 **Portofolio** | Website portofolio | React • Vite • CSS 3D | [🔗](https://github.com/Benny29281/Portofolio_Benny_Dwiyanto) |
+| 04 | 🎮 **Steizen Store** | Top-up game | Laravel 13 • Blade • SQLite/MySQL | [🔗](https://github.com/Benny29281/Steizen-top-up) |
+| 05 | 🏷️ **Sorex.id** | Manajemen request branding | Laravel • Bootstrap • jQuery • Tailwind | [🔗](https://github.com/Benny29281/SorexBrandingLaravel) |
+| 06 | ☕ **Atlantis Nako** | Android app | Java • Firebase | [🔗](https://github.com/Benny29281/Atlantis-Nako) |
+| 07 | 🖼️ **IPT Katalog** | Galeri Google Drive | HTML • JavaScript • Google Drive API | [🔗](https://github.com/Benny29281/project-katalog) |
+| 08 | 🎨 **Portofolio** | Website portofolio | React • Vite • CSS 3D | [🔗](https://github.com/Benny29281/Portofolio_Benny_Dwiyanto) |
 
 </div>
 
@@ -191,15 +190,6 @@ Ticketing IT: .NET + Angular.
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
-
-### 🌏 IPT Website
-Company profile 4 bahasa.
-
-<a href="https://github.com/Benny29281/Project-Website-IPT-"><img src="https://img.shields.io/github/languages/top/Benny29281/Project-Website-IPT-?style=flat-square&color=7928CA" /></a>
-<a href="https://github.com/Benny29281/Project-Website-IPT-"><img src="https://img.shields.io/github/last-commit/Benny29281/Project-Website-IPT-?style=flat-square&color=0070F3" /></a>
-
-</td>
 <td width="33%" valign="top">
 
 ### 🎮 Steizen Store
@@ -319,30 +309,7 @@ flowchart LR
 
 ---
 
-## 🌏 `04 · INDONESIA PACIFIC TRADE`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Payload%20CMS-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-**Website company profile PT Indonesia Pacific Trade** dengan fondasi e-commerce.
-
-</div>
-
-- 🌐 Konten **empat bahasa**: Indonesia, Inggris, Mandarin, Korea (`next-intl`)
-- 🧱 Next.js App Router + Payload CMS + PostgreSQL
-- 🏢 Halaman bidang bisnis (ICT, Photography, Consumer Electronics, Non-Heat Burns), footer company profile, halaman kebijakan
-- 🛍️ Katalog produk, keranjang, dan integrasi Midtrans *(perlu konfigurasi layanan & database sebelum dipakai)*
-
-🔗 [Lihat repository](https://github.com/Benny29281/Project-Website-IPT-)
-
----
-
-## 🎮 `05 · STEIZEN STORE` &nbsp;<img src="https://img.shields.io/badge/MODE-DEMO%20%2F%20SANDBOX-8A2BE2?style=flat-square" />
+## 🎮 `04 · STEIZEN STORE` &nbsp;<img src="https://img.shields.io/badge/MODE-DEMO%20%2F%20SANDBOX-8A2BE2?style=flat-square" />
 
 <div align="center">
 
@@ -365,7 +332,7 @@ flowchart LR
 
 ---
 
-## 🏷️ `06 · SOREX.ID — BRANDING REQUEST SYSTEM`
+## 🏷️ `05 · SOREX.ID — BRANDING REQUEST SYSTEM`
 
 <div align="center">
 
@@ -402,18 +369,6 @@ Aplikasi Android yang menggabungkan **pembelian kopi dan tiket wahana** dalam sa
 [🔗 Repo](https://github.com/Benny29281/Atlantis-Nako)
 
 </td>
-<td width="33%" valign="top">
-
-### 🖼️ IPT Katalog
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Drive%20API-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
-
-Galeri foto berbasis **Google Drive** dengan pencarian, tampilan grid/list, dan lightbox. Di-host gratis di GitHub Pages.
-
-[🔗 Repo](https://github.com/Benny29281/project-katalog)
-
-</td>
-<td width="33%" valign="top">
 
 ### 🎨 Portofolio
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
