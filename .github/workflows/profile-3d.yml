@@ -29,18 +29,20 @@ jobs:
           git commit -m "chore: generate 3D contribution graph" || exit 0
           git push
 
-  summary-cards:
+    summary-cards:
     runs-on: ubuntu-latest
-    needs: profile-3d   # jalan setelah job 3D selesai agar tidak bentrok saat push
+    needs: profile-3d
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
-      - uses: vn7n24fzkq/github-profile-summary-cards@release/2
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          UTC_OFFSET: 7   # WIB
+          UTC_OFFSET: "7"
 
       - name: Commit hasil
         run: |
